@@ -1,0 +1,3 @@
+[submodule "src/submodul"]
+	path = src/submodul
+	url = https://github.com/SandroReller/Modul_324-Git-Submodules-Aufgabe
