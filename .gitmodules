@@ -1,3 +1,12 @@
 [submodule "/submodul"]
 	path = /submodul
 	url = https://github.com/SandroReller/Modul_324-Git-Submodules-Aufgabe
+[submodule "submodul"]
+	path = submodul
+	url = https://github.com/SandroReller/Modul_324-Git-Submodules-Aufgabe
+[submodule "Modul_324-Git-Submodules-Aufgabe"]
+	path = Modul_324-Git-Submodules-Aufgabe
+	url = https://github.com/SandroReller/Modul_324-Git-Submodules-Aufgabe
+[submodule "Submodules/submodul"]
+	path = Submodules/submodul
+	url = https://github.com/SandroReller/Modul_324-Git-Submodules-Aufgabe
